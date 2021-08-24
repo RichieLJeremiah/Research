@@ -1,0 +1,26 @@
+img{
+    height: 500px;
+    width: 500px;
+    border-style: dashed;
+}
+h1{
+    background-color: cadetblue;
+}
+.head{
+    color: gold;
+}
+li{
+    background-color: mediumturquoise;
+}
+html{
+    background-color:black;
+}
+p{
+    color: gold;
+}
+table{
+    border-color: crimson;
+    border-style: groove;
+    width: 100px;
+    height: 100px;
+}
